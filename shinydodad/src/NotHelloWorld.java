@@ -13,6 +13,10 @@ public class NotHelloWorld
 {
    public static void main(String[] args)
    {
+      //To-do stuff?
+      System.out.println("Bender says: ");
+      //todo: Not my stuff:
       System.out.println("Death to All Humans!");
+      System.out.println("Err...save all humans!");
    }
 }
